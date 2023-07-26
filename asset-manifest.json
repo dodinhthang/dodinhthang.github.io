@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/dodinhthang/dodinhthang.github.io/static/css/main.afd7172b.chunk.css",
-    "main.js": "/dodinhthang/dodinhthang.github.io/static/js/main.b50364a9.chunk.js",
-    "main.js.map": "/dodinhthang/dodinhthang.github.io/static/js/main.b50364a9.chunk.js.map",
+    "main.js": "/dodinhthang/dodinhthang.github.io/static/js/main.b3a6f0d9.chunk.js",
+    "main.js.map": "/dodinhthang/dodinhthang.github.io/static/js/main.b3a6f0d9.chunk.js.map",
     "runtime-main.js": "/dodinhthang/dodinhthang.github.io/static/js/runtime-main.7dae055f.js",
     "runtime-main.js.map": "/dodinhthang/dodinhthang.github.io/static/js/runtime-main.7dae055f.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/dodinhthang/dodinhthang.github.io/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.50419fce.chunk.js": "/dodinhthang/dodinhthang.github.io/static/js/2.50419fce.chunk.js",
-    "static/js/2.50419fce.chunk.js.map": "/dodinhthang/dodinhthang.github.io/static/js/2.50419fce.chunk.js.map",
+    "static/js/2.16cac0b1.chunk.js": "/dodinhthang/dodinhthang.github.io/static/js/2.16cac0b1.chunk.js",
+    "static/js/2.16cac0b1.chunk.js.map": "/dodinhthang/dodinhthang.github.io/static/js/2.16cac0b1.chunk.js.map",
     "static/js/3.39368915.chunk.js": "/dodinhthang/dodinhthang.github.io/static/js/3.39368915.chunk.js",
     "static/js/3.39368915.chunk.js.map": "/dodinhthang/dodinhthang.github.io/static/js/3.39368915.chunk.js.map",
     "index.html": "/dodinhthang/dodinhthang.github.io/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/dodinhthang/dodinhthang.github.io/static/css/2.7fc9bc2b.chunk.css.map",
     "static/css/main.afd7172b.chunk.css.map": "/dodinhthang/dodinhthang.github.io/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.50419fce.chunk.js.LICENSE.txt": "/dodinhthang/dodinhthang.github.io/static/js/2.50419fce.chunk.js.LICENSE.txt",
+    "static/js/2.16cac0b1.chunk.js.LICENSE.txt": "/dodinhthang/dodinhthang.github.io/static/js/2.16cac0b1.chunk.js.LICENSE.txt",
     "static/media/arrow.ffe11b41.svg": "/dodinhthang/dodinhthang.github.io/static/media/arrow.ffe11b41.svg",
     "static/media/avatar1.5c8ddd5a.svg": "/dodinhthang/dodinhthang.github.io/static/media/avatar1.5c8ddd5a.svg",
     "static/media/avatar2.38cb94e2.svg": "/dodinhthang/dodinhthang.github.io/static/media/avatar2.38cb94e2.svg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.7dae055f.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.50419fce.chunk.js",
+    "static/js/2.16cac0b1.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.b50364a9.chunk.js"
+    "static/js/main.b3a6f0d9.chunk.js"
   ]
 }
