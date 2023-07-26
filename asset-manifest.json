@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/dodinhthang/dodinhthang.github.io/static/css/main.afd7172b.chunk.css",
+    "main.js": "/dodinhthang/dodinhthang.github.io/static/js/main.b50364a9.chunk.js",
+    "main.js.map": "/dodinhthang/dodinhthang.github.io/static/js/main.b50364a9.chunk.js.map",
+    "runtime-main.js": "/dodinhthang/dodinhthang.github.io/static/js/runtime-main.7dae055f.js",
+    "runtime-main.js.map": "/dodinhthang/dodinhthang.github.io/static/js/runtime-main.7dae055f.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/dodinhthang/dodinhthang.github.io/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.50419fce.chunk.js": "/dodinhthang/dodinhthang.github.io/static/js/2.50419fce.chunk.js",
+    "static/js/2.50419fce.chunk.js.map": "/dodinhthang/dodinhthang.github.io/static/js/2.50419fce.chunk.js.map",
+    "static/js/3.39368915.chunk.js": "/dodinhthang/dodinhthang.github.io/static/js/3.39368915.chunk.js",
+    "static/js/3.39368915.chunk.js.map": "/dodinhthang/dodinhthang.github.io/static/js/3.39368915.chunk.js.map",
+    "index.html": "/dodinhthang/dodinhthang.github.io/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/dodinhthang/dodinhthang.github.io/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/dodinhthang/dodinhthang.github.io/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.50419fce.chunk.js.LICENSE.txt": "/dodinhthang/dodinhthang.github.io/static/js/2.50419fce.chunk.js.LICENSE.txt",
+    "static/media/arrow.ffe11b41.svg": "/dodinhthang/dodinhthang.github.io/static/media/arrow.ffe11b41.svg",
+    "static/media/avatar1.5c8ddd5a.svg": "/dodinhthang/dodinhthang.github.io/static/media/avatar1.5c8ddd5a.svg",
+    "static/media/avatar2.38cb94e2.svg": "/dodinhthang/dodinhthang.github.io/static/media/avatar2.38cb94e2.svg",
+    "static/media/avatar3.275a95b9.svg": "/dodinhthang/dodinhthang.github.io/static/media/avatar3.275a95b9.svg",
+    "static/media/avatar4.11b7073a.svg": "/dodinhthang/dodinhthang.github.io/static/media/avatar4.11b7073a.svg",
+    "static/media/avatar5.2b7fa26b.svg": "/dodinhthang/dodinhthang.github.io/static/media/avatar5.2b7fa26b.svg",
+    "static/media/bg.b734ddb3.svg": "/dodinhthang/dodinhthang.github.io/static/media/bg.b734ddb3.svg",
+    "static/media/chart.a84f440e.svg": "/dodinhthang/dodinhthang.github.io/static/media/chart.a84f440e.svg",
+    "static/media/circleBg.b225a296.svg": "/dodinhthang/dodinhthang.github.io/static/media/circleBg.b225a296.svg",
+    "static/media/crm-development.93146ee1.svg": "/dodinhthang/dodinhthang.github.io/static/media/crm-development.93146ee1.svg",
+    "static/media/logo.102027f6.svg": "/dodinhthang/dodinhthang.github.io/static/media/logo.102027f6.svg",
+    "static/media/message_blue.3065b5d0.svg": "/dodinhthang/dodinhthang.github.io/static/media/message_blue.3065b5d0.svg",
+    "static/media/message_pink.3b52b420.svg": "/dodinhthang/dodinhthang.github.io/static/media/message_pink.3b52b420.svg",
+    "static/media/phone.bcfe18d1.svg": "/dodinhthang/dodinhthang.github.io/static/media/phone.bcfe18d1.svg",
+    "static/media/ring_orange.25b28ee1.svg": "/dodinhthang/dodinhthang.github.io/static/media/ring_orange.25b28ee1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dae055f.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.50419fce.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.b50364a9.chunk.js"
+  ]
+}
